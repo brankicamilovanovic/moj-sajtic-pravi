@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6,
 ::-webkit-scrollbar{
 	height:10px;
 	width:10px;
-	background:#FFF;
+	background:#000000;
 }
 ::-webkit-scrollbar-thumb{
 	background:#BBB;
